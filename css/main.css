@@ -552,7 +552,8 @@ figcaption.mask h3 {
 }
 
 figcaption.mask span {
-  color: #0FAED9;
+  color: #0FAED9;	
+  font-size: 12px;
 }
 
 
